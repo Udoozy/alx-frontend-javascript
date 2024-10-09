@@ -6,4 +6,5 @@ export default function createIteratorObject(report) {
       ...item,
     ];
   }
+  return allEmployees;
 }
