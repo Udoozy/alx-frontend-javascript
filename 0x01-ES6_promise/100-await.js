@@ -1,6 +1,6 @@
 import { uploadPhoto, createUser } from './utils';
 
-export default function async asyncUploadUser() {
+export default async function asyncUploadUser() {
   let photo;
   let user;
   try {
