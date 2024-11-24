@@ -29,7 +29,7 @@ export default class HolbertonCourse {
     }
     this._length = value;
   }
-  
+
   get students() {
     return this._students;
   }
